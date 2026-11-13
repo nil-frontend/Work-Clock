@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WorkClock</string>
+    <string name="settings_title">Settings</string>
+    <string name="keep_screen_awake">Keep screen awake</string>
+    <string name="keep_screen_awake_desc">Prevents display from sleeping while WorkClock is in foreground. The power button still turns the screen off.</string>
+    <string name="time_format">Time Format</string>
+    <string name="show_seconds">Show seconds</string>
+    <string name="show_date">Show date</string>
+    <string name="show_time_zone">Show time zone</string>
+    <string name="show_time_zone_desc">Display current device time zone (e.g. IST, GMT, EST)</string>
+    <string name="theme_selection">Appearance Theme</string>
+    <string name="brightness_mode">Screen Brightness</string>
+    <string name="use_device_brightness">Use device brightness</string>
+    <string name="app_brightness">App brightness override</string>
+    <string name="oled_care">OLED display care</string>
+    <string name="oled_care_desc">Applies subtle, periodic pixel shifts and dimming to reduce static image retention.</string>
+    <string name="immersive_mode">Full-screen immersive mode</string>
+    <string name="immersive_mode_desc">Hides system status and navigation bars for distraction-free view.</string>
+    <string name="about_title">About WorkClock</string>
+    <string name="about_disclaimer">WorkClock displays your device\'s system time. It is not an official or certified timekeeping instrument.</string>
+    <string name="version_label">Version 1.0.0</string>
+    <string name="privacy_policy">Privacy &amp; Ads</string>
+    <string name="privacy_policy_desc">Time and preferences are stored locally on your device. The banner advertisement runs via Google AdMob.</string>
+    <string name="ad_placeholder">Advertisement</string>
+</resources>

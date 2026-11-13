@@ -1,0 +1,6 @@
+{
+  "name": "WorkClock",
+  "description": "A clean, full-screen digital desk clock for Android phones and tablets with screen-awake display, custom themes, and OLED care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
